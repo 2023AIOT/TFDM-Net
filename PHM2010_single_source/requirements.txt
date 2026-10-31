@@ -1,0 +1,10 @@
+# Install a PyTorch build suitable for your CPU/CUDA platform before running the code.
+torch
+numpy
+pandas
+tqdm
+PyWavelets
+Pillow
+matplotlib
+seaborn
+scikit-learn
