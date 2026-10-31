@@ -28,11 +28,3 @@ Then follow the instructions in that directory's `README.md` to prepare the data
 ## Datasets
 
 The datasets are not redistributed in this repository. Users must obtain the PHM2010 and Hannover datasets from their original sources and comply with their respective licenses.
-
-## Citation
-
-If you find this repository useful, please cite:
-
-> TFDM-Net: A Time-Frequency Decoupled Modeling Network for Tool Wear State Recognition.
-
-Complete citation information will be added after publication.
