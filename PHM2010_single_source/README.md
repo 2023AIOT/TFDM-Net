@@ -1,6 +1,6 @@
 # TFDM-Net on PHM2010: Single-Source Cross-Tool Tasks
 
-This directory contains the code used for the single-source cross-tool experiments (M1-M3) on the PHM2010 milling dataset. One tool is used for training and validation, and a different tool is used for independent testing.
+This directory contains the code used for six single-source cross-tool experiments on the PHM2010 milling dataset. One tool is used for training and validation, and a different tool is used for independent testing.
 
 ## Files
 
