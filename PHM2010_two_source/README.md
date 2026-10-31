@@ -103,9 +103,3 @@ By default, each experiment is saved under `outputs_only2d_tfssm/<experiment>/`,
 - Keep preprocessing, training, and testing on the same generated data directory.
 - The default random seed is 42. Exact GPU results can still vary with hardware, CUDA, cuDNN, and PyTorch versions.
 - The repository contains code only; users must obtain the PHM2010 dataset from its original source and comply with its license.
-
-## Citation
-
-If this code is useful, please cite the associated manuscript:
-
-> TFDM-Net: A Time-Frequency Decoupled Modeling Network for Tool Wear State Recognition.
